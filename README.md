@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [JavaScript.](https://github.com/osmanelmaa/javascriptfonksiyonlardahiltutariol)
 
-- 🌱 I’m currently learning **Tailwind, Node.js, Django..**
+- 🌱 I’m currently learning **Tailwind, Boostrap, Scss..**
 
 - 👯 I’m looking to collaborate on **Front End project.**
 
