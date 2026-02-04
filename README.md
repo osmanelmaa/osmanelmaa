@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi, I'm Osman Ali Elma</h1>
 <h3 align="center">I am a Front-End Developer who develops user-friendly interfaces.</h3>
+<h3 align="center">I take my own coded projects live on servers.</h3>
 
 - I’m currently learning **Linux and Base Network Technologies**
 - How to reach me **osmanalielmaa@gmail.com**
